@@ -251,7 +251,7 @@
 		"features_5" : "",
 		"features_6" : "",
 		"features_7" : "v",
-		"f1" : "$0",
+		"f1" : "This should be shown at the bottom",
 		"f2" : "$0",
 		"f3" : "12,99%",
 		"f4" : "12,99%",
